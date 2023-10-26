@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "626705000356",
+    "project_id": "fir-eb6ce",
+    "storage_bucket": "fir-eb6ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626705000356:android:b75f15c9e89df8b6f74331",
+        "android_client_info": {
+          "package_name": "com.example.untitledsaggo123"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKM3OFoKXvs_D8XAgVyxpQXtPffNPmtTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
